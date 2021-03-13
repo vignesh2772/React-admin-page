@@ -2,6 +2,10 @@
   "name": "react-sidebar-v1",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+	"node": "v14.16.0",
+	"npm": "6.14.11",
+	},
   "dependencies": {
     "@sideway/address": "^4.1.1",
     "@testing-library/jest-dom": "^4.2.4",
