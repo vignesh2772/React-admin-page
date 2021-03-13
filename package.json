@@ -19,7 +19,7 @@
     "react-icons": "^3.11.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.3",
-	  "recharts": "^2.0.8",
+    "recharts": "^2.0.8",
     "start": "^5.1.0"
   },
   "scripts": {
